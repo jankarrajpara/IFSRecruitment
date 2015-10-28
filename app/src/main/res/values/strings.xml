@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IFS Recruitment</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_referral_fragment">ReferralFragment</string>
+    <string name="title_activity_stats">StatsActivity</string>
+    <string name="title_activity_add_referral">AddReferralActivity</string>
+    <string name="title_activity_recruits_details">RecruitsDetailsActivity</string>
+</resources>
